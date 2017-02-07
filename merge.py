@@ -15,3 +15,4 @@ if __name__ == "__main__":
         iter(xrange(0, 50, 5)),
         iter(xrange(0, 100, 20))
     )
+    print merge(None)
